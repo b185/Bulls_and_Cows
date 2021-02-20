@@ -14,6 +14,7 @@ The "Server" and the "Client" establishes a TCP connection using the Winsock lib
 
 
 The "Bulls & Cows" game is conducted in the following manner: 
+
 When two plyers are matched, initially, every player chooses a single number comprised of 4 unique(different from one another) digits (0-9). 
 
 After this initialization, the game proceeds to "Rounds" phase. 
